@@ -7,9 +7,13 @@ Hi there 👋
 - 📫 How to reach me: Ping me on [LinkedIn-Prajwal Gaikwad](https://www.linkedin.com/in/prajwal-gaikwad-a522791a1/), [Twitter-Prajwal Gaikwad](https://twitter.com/iprajwalG)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do unit testing in my dreams
-
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalg7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">     
+ 
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prajwalg7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">          
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalg7&theme=tokyonight&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalg7&theme=tokyonight">
+  </p>
+
 
 
 <!---
