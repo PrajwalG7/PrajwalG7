@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Prajwal
+Hi there 👋
+
+# I’m Prajwal
+
 - 👀 I’m interested in Android and Web Technologies
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me: Ping me on LinkedIn 
