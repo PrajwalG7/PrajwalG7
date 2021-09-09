@@ -8,8 +8,8 @@ Hi there 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do unit testing in my dreams
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalg7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalg7&layout=compact)](https://github.com/prajwalg7/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=prajwalg7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">     
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalg7&theme=tokyonight&layout=compact">
 
 
 <!---
