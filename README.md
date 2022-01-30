@@ -10,11 +10,11 @@ Hi there 👋
 - ⚡ Fun fact: I do unit testing in my dreams
  
 
- <p align="center">
+<!--  <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalg7&theme=tokyonight&layout=compact">        
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalg7&theme=tokyonight&layout=compact">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalg7&theme=tokyonight">
-  </p>
+  </p> -->
  
 
 
