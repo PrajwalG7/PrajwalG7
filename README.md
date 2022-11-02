@@ -2,7 +2,7 @@
 
 ## I’m Prajwal
 
-- 👨‍🎓 Studing Computer Science and Engineering from Pune University.
+- 👨‍🎓 Studing Computer Engineering from Pune University.
 - ⚒ Experienced in building Web and Android Applications.
 - 🏋️ Health is Wealth.
 - ❤ Interest: Football, Trekking, Music.
