@@ -4,8 +4,6 @@
 
 - 🧑‍💻 A Tech Enthusiast who loves building Digital Experiences.
 - ⚒ Experienced in building Web and Android Applications.
-- 🏋️ Health is Wealth.
-- ❤ Interest: Football, Trekking, Music.
  
 ## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
