@@ -2,8 +2,8 @@
 
 ## I’m Prajwal
 
-- 🧑‍💻 A Tech Enthusiast who loves building Digital Experiences.
-- ⚒ Experienced in building Web and Android Applications.
+- 🧑‍💻 Engineering Data-Centric Web Solutions that Drive Impact.
+- A passionate Software Engineer with a strong background in web development. I enjoy creating and optimizing web solutions that blend data with user experience, focusing on driving meaningful outcomes and making technology work smarter.
  
 ## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
