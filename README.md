@@ -3,7 +3,7 @@
 ## I’m Prajwal
 
 - 🧑‍💻 Engineering Data-Centric Web Solutions that Drive Impact.
-- Software Engineer with 1+ years of experience in designing, developing, and delivering scalable, data-driven web solutions for SaaS platforms and the Industrial Automation domain. Adept at leveraging modern web technologies to optimize user experiences, drive performance improvements, and ensure application reliability through rigorous testing. Demonstrated ability to support strategic business goals by delivering high-quality, impactful projects on time.
+- Software Engineer with 2+ years of experience in designing, developing, and delivering scalable, data-driven web solutions for SaaS platforms and the Industrial Automation domain. Adept at leveraging modern web technologies to optimize user experiences, drive performance improvements, and ensure application reliability through rigorous testing. Demonstrated ability to support strategic business goals by delivering high-quality, impactful projects on time.
  
 ## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
